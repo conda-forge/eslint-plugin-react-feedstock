@@ -1,5 +1,5 @@
 {% set name = "eslint-plugin-react" %}
-{% set version = "7.33.0" %}
+{% set version = "7.33.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/yannickcr/eslint-plugin-react/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: 367f0cbc1349e511698c50fb35024ef7f7ba4d2a4b705b75993d01fb94b1ec9e
+  sha256: 0fe11e66b555a033105d7b7aa965325f756a8e06c6ad1b6781462f30e131c937
 
 build:
   skip: true  # [win]

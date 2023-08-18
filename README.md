@@ -1,11 +1,11 @@
-About eslint-plugin-react
-=========================
+About eslint-plugin-react-feedstock
+===================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/eslint-plugin-react-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/yannickcr/eslint-plugin-react
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/eslint-plugin-react-feedstock/blob/main/LICENSE.txt)
 
 Summary: Find and fix problems in your JavaScript code.
 
@@ -27,101 +27,73 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_64_nodejs14</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux_64_nodejs14" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
               <td>linux_64_nodejs16</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux_64_nodejs16" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_nodejs16" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_nodejs17</td>
+              <td>linux_64_nodejs18</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux_64_nodejs17" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_aarch64_nodejs14</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_nodejs14" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_nodejs18" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>linux_aarch64_nodejs16</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_nodejs16" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_nodejs16" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_nodejs17</td>
+              <td>linux_aarch64_nodejs18</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux_aarch64_nodejs17" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_ppc64le_nodejs14</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_nodejs14" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_nodejs18" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>linux_ppc64le_nodejs16</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_nodejs16" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_nodejs16" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_nodejs17</td>
+              <td>linux_ppc64le_nodejs18</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux_ppc64le_nodejs17" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_nodejs14</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=osx&configuration=osx_64_nodejs14" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_nodejs18" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_nodejs16</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=osx&configuration=osx_64_nodejs16" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_nodejs16" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_nodejs17</td>
+              <td>osx_64_nodejs18</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=osx&configuration=osx_64_nodejs17" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_nodejs18" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_arm64_nodejs16</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_nodejs16" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_nodejs16" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_nodejs17</td>
+              <td>osx_arm64_nodejs18</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15874&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=osx&configuration=osx_arm64_nodejs17" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/eslint-plugin-react-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_nodejs18" alt="variant">
                 </a>
               </td>
             </tr>

@@ -19,6 +19,7 @@ requirements:
   host:
     - nodejs
     - yarn <2
+    - npmignore
   run:
     - nodejs
 

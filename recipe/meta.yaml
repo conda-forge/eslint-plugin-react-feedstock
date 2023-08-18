@@ -15,9 +15,10 @@ build:
 
 requirements:
   build:
-    - nodejs
+    - nodejs 
   host:
     - nodejs
+    - npmignore
     - yarn <2
   run:
     - nodejs

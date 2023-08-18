@@ -11,14 +11,14 @@ source:
 
 build:
   skip: true  # [win]
-  number: 2
+  number: 3
 
 requirements:
   build:
     - nodejs
   host:
     - nodejs
-    - yarn
+    - yarn <2
   run:
     - nodejs
 
